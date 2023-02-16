@@ -37,12 +37,11 @@ h1{
     color: #fff;
     text-shadow: 0 0 5px #ff004c;
     font-size: 2rem;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     line-height: 1.6;
-    word-spacing: 2px;
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Satisfy', cursive;
+    font-family: monospace;
 }
 
 p{
