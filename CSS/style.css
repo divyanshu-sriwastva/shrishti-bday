@@ -66,5 +66,6 @@ p {
 .pic {
     box-shadow: 0 0 17px -1px #ff004c;
     width: 15rem;
+    margin-bottom: 2rem;
     border-radius: 50%;
 }
