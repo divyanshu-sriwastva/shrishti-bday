@@ -18,13 +18,13 @@ body {
 
 .image-1 {
     position: absolute;
-    filter: drop-shadow(0 0 3px #ff004c);
+    filter: drop-shadow(2px 2px 3px #ff004c);
     left: 20px;
     top: 30px
 }
 
 .image-2 {
-    filter: drop-shadow(0 0 3px #ff004c);
+    filter: drop-shadow(2px 2px 3px #ff004c);
     position: absolute;
     right: 20px;
     top: 30px;
@@ -34,11 +34,11 @@ body {
     margin-top: 8rem;
     width: 15rem;
     margin-bottom: 4rem;
-    filter: drop-shadow(0 0 8px #ff004c);
+    filter: drop-shadow(0 0 10px #ff004c);
 }
 
 h1 {
-    filter: drop-shadow(0 0 5px #ff004c);
+    filter: drop-shadow(2px 3px 5px #ff004c);
     color: #fff;
     text-shadow: 0 0 5px #ff004c;
     font-size: 2rem;
