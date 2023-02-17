@@ -79,7 +79,7 @@ p {
 
 .flex{
     display: flex;
-    gap: 2.5rem;
+    gap: 2rem;
 }
 
 span{
