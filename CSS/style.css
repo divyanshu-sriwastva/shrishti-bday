@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    max-width: 100%;
     font-family: 'Work Sans';
     box-sizing: border-box;
 }
@@ -11,7 +12,7 @@ body {
     justify-content: center;
     box-shadow: inset 0 0 10px -1px #ff004c;
     align-items: center;
-    padding: 1rem;
+    padding: 1.5rem;
     border: 2px solid #ff004c;
     flex-direction: column;
 }
@@ -31,7 +32,7 @@ body {
 }
 
 .cake {
-    margin-top: 8rem;
+    margin-top: 6rem;
     width: 15rem;
     margin-bottom: 4rem;
     filter: drop-shadow(0 0 10px #ff004c);
@@ -54,10 +55,10 @@ p {
     margin-top: 2rem;
     color: #fff;
     line-height: 1.6;
-    border: 1px solid #ff004c;
-    border-radius: 5px;
     box-shadow: 0 0 17px -1px #ff004c;
+    border: 1px solid #ff004c;
     text-shadow: 0 0 5px #ff004c;
+    border-radius: 5px;
     padding: 1rem;
     text-align: center;
     font-size: 1rem;
@@ -68,4 +69,21 @@ p {
     width: 15rem;
     margin-bottom: 2rem;
     border-radius: 50%;
+}
+
+.divyanshu,.shrishti{
+    box-shadow: 0 0 17px -1px #ff004c;
+    border: 1px solid #ff004c;
+    border-radius: 4px;
+}
+
+.flex{
+    display: flex;
+    gap: 2.5rem;
+}
+
+span{
+    padding: .5rem;
+    border-radius: 5px;
+    background-color: #ff004c;
 }
